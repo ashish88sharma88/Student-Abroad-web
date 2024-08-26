@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/yourusername/student-abroad-consultancy.git
+git clone https://github.com/yourusername/Student-Abroad-web.git
 Navigate to the project directory:
 
 bash
